@@ -75,7 +75,7 @@ DecisionTree      0.97       0.79
 ## 1️⃣ Multi-Layer Perceptron (MLP)
 
 ### Confusion Matrix
-![MLP Confusion Matrix](comparision%20matrix%20heaTmap%20MLP.png)
+![MLP Confusion Matrix](https://github.com/Nayab786Shafique/insider_threat_dectection/blob/main/comparision%20matrix%20heaTmap%20MLP.png?raw=true)
 
 ### ROC Curve
 
@@ -83,7 +83,7 @@ DecisionTree      0.97       0.79
 
 ### Actual vs Predicted Distribution
 
-![MLP Prediction](actual%20us%20precdicted%20distribution%20MLP.png)
+![MLP Prediction](https://github.com/Nayab786Shafique/insider_threat_dectection/blob/main/actual%20us%20precdicted%20distribution%20MLP.png?raw=true)
 
 ---
 
