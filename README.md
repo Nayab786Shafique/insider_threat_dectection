@@ -5,9 +5,16 @@ Key Features
 Data Analysis: Processed and cleaned employee activity datasets.
 Machine Learning Models: Implemented and compared four classification algorithms:
 Decision Tree Classification
+
 Random Forest Classification
 Support Vector Machine (SVM)
 Multi-Layer Perceptron (MLP)
+--- Final Model Comparison Table ---
+       Model  Accuracy  AUC Score
+         MLP      0.97       0.99
+RandomForest      0.97       0.98
+         SVM      0.97       0.91
+DecisionTree      0.97       0.79
 Objective: To help companies proactively identify risks posed by internal users.
 Tools & Technologies
 Language: Python
