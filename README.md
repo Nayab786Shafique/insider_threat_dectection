@@ -98,7 +98,7 @@ DecisionTree      0.97       0.79
 
 ### Actual vs Predicted Distribution
 
-![RF Prediction](actual%20vs%20predicted%20and%20distribution%20Randon%20fo....png)
+![Random Forest Prediction](actual%20vs%20predicted%20and%20distribution%20Randon%20forest.png)
 
 ---
 
@@ -125,8 +125,8 @@ DecisionTree      0.97       0.79
 ![DT ROC Curve](ROC%20curve%20decision%20tree.png)
 
 ### Actual vs Predicted Distribution
-![DT Prediction](actual%20vs%20predicted%20distribution%20decision%20treee....png)
 
+![Decision Tree Prediction](actual%20vs%20predicted%20distribution%20decision%20treee....png)
 ---
 
 ## 📁 Project Files
