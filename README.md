@@ -75,8 +75,7 @@ DecisionTree      0.97       0.79
 ## 1️⃣ Multi-Layer Perceptron (MLP)
 
 ### Confusion Matrix
-
-![MLP Confusion Matrix](comparision matrix heaTmap MLP.png)
+![MLP Confusion Matrix](comparision%20matrix%20heaTmap%20MLP.png)
 
 ### ROC Curve
 
