@@ -76,7 +76,7 @@ DecisionTree      0.97       0.79
 
 ### Confusion Matrix
 ### MLP Confusion Matrix
-![MLP Confusion Matrix](comparision%20matrix%20heaTmap%20MLP.png)
+![MLP Confusion Matrix](comparision%20matrix%20heaTmap%20%20MLP.png)
 ### ROC Curve
 
 ![MLP ROC Curve](ROC%20curve%20MLP.png)
@@ -84,7 +84,7 @@ DecisionTree      0.97       0.79
 ### Actual vs Predicted Distribution
 
 ### Actual vs Predicted Distribution
-![MLP Prediction](actual%20us%20precdicted%20distribution%20MLP.png)
+![MLP Prediction](actual%20us%20precdicted%20distribution%20%20MLP.png)
 ---
 
 ## 2️⃣ Random Forest
