@@ -79,11 +79,11 @@ DecisionTree      0.97       0.79
 
 ### ROC Curve
 
-![MLP ROC Curve](ROC curve MLP.png)
+![MLP ROC Curve](ROC%20curve%20MLP.png)
 
 ### Actual vs Predicted Distribution
 
-![MLP Prediction](actual us precdicted distribution MLP.png)
+![MLP Prediction](actual%20us%20precdicted%20distribution%20MLP.png)
 
 ---
 
@@ -91,31 +91,26 @@ DecisionTree      0.97       0.79
 
 ### Confusion Matrix
 
-![Random Forest Confusion Matrix](conparison matrix heatmap random forest.png)
+![RF Confusion Matrix](conparison%20matrix%20heatmap%20random%20forest.png)
 
 ### ROC Curve
-
-![Random Forest ROC Curve](ROC curve Randomforest.png)
+![RF ROC Curve](ROC%20curve%20Randomforest.png)
 
 ### Actual vs Predicted Distribution
 
-![Random Forest Prediction](actual vs predicted and distribution Randon forest.png)
+![RF Prediction](actual%20vs%20predicted%20and%20distribution%20Randon%20fo....png)
 
 ---
 
 ## 3️⃣ Support Vector Machine (SVM)
 
 ### Confusion Matrix
-
-![SVM Confusion Matrix](comparison matrix heatmat SVM.png)
-
+![SVM Confusion Matrix](comparison%20matrix%20heatmat%20SVM.png)
 ### ROC Curve
-
-![SVM ROC Curve](ROC curve SVM.png)
-
+![SVM ROC Curve](ROC%20curve%20SVM.png)
 ### Actual vs Predicted Distribution
 
-![SVM Prediction](actual vs predicted distribution SVM .png)
+![SVM Prediction](actual%20vs%20predicted%20distribution%20SVM%20.png)
 
 ---
 
@@ -123,15 +118,14 @@ DecisionTree      0.97       0.79
 
 ### Confusion Matrix
 
-![Decision Tree Confusion Matrix](comparison matrix heatmap decision tree .png)
+![DT Confusion Matrix](comparison%20matrix%20heatmap%20decision%20tree%20.png)
 
 ### ROC Curve
 
-![Decision Tree ROC Curve](ROC curve decision tree.png)
+![DT ROC Curve](ROC%20curve%20decision%20tree.png)
 
 ### Actual vs Predicted Distribution
-
-![Decision Tree Prediction](actual vs predicted distribution decision treeee....png)
+![DT Prediction](actual%20vs%20predicted%20distribution%20decision%20treee....png)
 
 ---
 
