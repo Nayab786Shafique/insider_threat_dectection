@@ -96,7 +96,7 @@ DecisionTree      0.97       0.79
 
 ### Actual vs Predicted Distribution
 
-
+![Random Forest Prediction](actual%20vs%20predicted%20and%20distribution%20Randon%20forest.png)
 
 ---
 
